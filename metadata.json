@@ -1,0 +1,10 @@
+{
+  "name": "AI Object Scanner",
+  "description": "Scan objects or text with your camera to receive real-time contextual information and detailed AI descriptions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
